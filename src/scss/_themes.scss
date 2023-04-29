@@ -1,3 +1,4 @@
+/* LIGHT THEME */
 .light-theme {
   background-color: var(--light-gray);
 
@@ -26,10 +27,8 @@
             background-color: var(--dark-moderate-cyan);
             box-shadow: 0px 4px 2px var(--very-dark-cyan);
 
-            @media (min-width: 768px) {
-              &:hover {
-                background-color: var(--light-dark-moderate-cyan-hover);
-              }
+            &:hover {
+              background-color: var(--light-dark-moderate-cyan-hover);
             }
           }
           .btn-reset {
@@ -37,10 +36,8 @@
             background-color: var(--dark-moderate-cyan);
             box-shadow: 0px 4px 2px var(--very-dark-cyan);
 
-            @media (min-width: 768px) {
-              &:hover {
-                background-color: var(--light-dark-moderate-cyan-hover);
-              }
+            &:hover {
+              background-color: var(--light-dark-moderate-cyan-hover);
             }
           }
           .btn-equal {
@@ -48,10 +45,8 @@
             color: var(--white);
             box-shadow: 0px 4px 2px var(--dark-orange);
 
-            @media (min-width: 768px) {
-              &:hover {
-                background-color: var(--light-orange-hover);
-              }
+            &:hover {
+              background-color: var(--light-orange-hover);
             }
           }
         }
@@ -60,7 +55,7 @@
   }
 }
 
-/* THEME 3 */
+/* NEON THEME */
 .neon-theme {
   background-color: var(--very-dark-violet-1);
 
@@ -89,10 +84,8 @@
             color: var(--light-yellow);
             box-shadow: 0px 4px 2px var(--dark-magenta);
 
-            @media (min-width: 768px) {
-              &:hover {
-                background-color: var(--light-very-dark-violet);
-              }
+            &:hover {
+              background-color: var(--light-very-dark-violet);
             }
           }
           .btn-del {
@@ -100,10 +93,8 @@
             background-color: var(--dark-violet);
             box-shadow: 0px 4px 2px var(--vivid-magenta);
 
-            @media (min-width: 768px) {
-              &:hover {
-                background-color: var(--light-dark-violet);
-              }
+            &:hover {
+              background-color: var(--light-dark-violet);
             }
           }
           .btn-reset {
@@ -111,10 +102,8 @@
             background-color: var(--dark-violet);
             box-shadow: 0px 4px 2px var(--vivid-magenta);
 
-            @media (min-width: 768px) {
-              &:hover {
-                background-color: var(--light-dark-violet);
-              }
+            &:hover {
+              background-color: var(--light-dark-violet);
             }
           }
           .btn-equal {
@@ -122,10 +111,8 @@
             color: var(--very-dark-blue);
             box-shadow: 0px 4px 2px var(--soft-cyan);
 
-            @media (min-width: 768px) {
-              &:hover {
-                background-color: var(--light-pure-cyan);
-              }
+            &:hover {
+              background-color: var(--light-pure-cyan);
             }
           }
         }

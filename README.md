@@ -1,5 +1,5 @@
 # Calculator app
-Responsive calculator app made using HTML, SCSS, JS. I also used some Bootstrap 5 to make the buttons with CSS grid and Vite to organize the project and prepare it for deployment. It's possible to switch between 3 different color themes. <br>
+Responsive calculator app made using HTML, SCSS, JS. I also used some Bootstrap 5 to make the buttons with CSS grid and Vite as local server and bundler. It's possible to switch between 3 different color themes. <br>
 Live demo: https://calculator-app-main.onrender.com/
 <br>
 <br>
